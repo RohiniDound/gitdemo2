@@ -14,4 +14,4 @@ do
   i=$((i + 1))
 done
 
-echo $sum
+echo "the sum of $N number =" $sum
