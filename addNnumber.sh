@@ -15,3 +15,5 @@ do
 done
 
 echo $sum
+echo "hello"
+echo "hello 1"
