@@ -17,3 +17,4 @@ done
 echo $sum
 echo "hello"
 echo "hello 1"
+echo "the sum of $N number =" $sum
